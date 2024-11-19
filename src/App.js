@@ -4,8 +4,8 @@ function App() {
   return (
     <>
       <NavBar />
-      <Header />
-      <Footer />
+      {/* <Header mohit={false} /> */}
+      {/* <Footer /> */}
     </>
   );
 }
